@@ -1,0 +1,21 @@
+BIG BEAR FILM — GITHUB PAGES
+
+Gotowa strona ze showreelem, 22 filmami, podmienionymi logotypami i animacjami.
+
+PUBLIKACJA
+1. Rozpakuj ZIP.
+2. Wgraj index.html oraz całe foldery assets i bundle do głównego katalogu repozytorium GitHub (Add file > Upload files). Wgraj także .nojekyll, jeśli jest widoczny. Nie wgrywaj samego ZIP ani dodatkowego nadrzędnego folderu.
+3. Zapisz zmiany na gałęzi main.
+4. Settings > Pages > Source: Deploy from a branch.
+5. Wybierz main oraz /(root), kliknij Save.
+6. Gotowy adres pojawi się w Settings > Pages.
+
+Nie trzeba instalować żadnego programu ani uruchamiać budowania strony.
+Ścieżki działają zarówno pod domeną, jak i w podfolderze /nazwa-repozytorium/.
+Filmy są odtwarzane z YouTube i wymagają internetu. Paczka zawiera kadry i odtwarzacze, nie pliki wideo.
+
+DOSTĘP
+Ta kopia nie zawiera logowania Sites. Standardowa publikacja GitHub Pages będzie publiczna, także gdy repozytorium jest prywatne. noindex ogranicza indeksowanie, ale nie chroni dostępu. Paczka zawiera VW, Škodę i Xiaomi; według ustaleń te materiały są na razie do zamkniętych prezentacji — przed publicznym udostępnieniem potrzebna jest zgoda na ich publikację.
+
+Źródło instrukcji GitHub:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
